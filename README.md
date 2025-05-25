@@ -1,1 +1,2 @@
 The AlignedX Model is an open-source, structured framework that aligns strategy, execution and outcomes to orchestrate digital and technology-driven business value transformation. The AlignedX Model organizes nine interconnected models—with the Value Stream Model as the foundational structure—to ensure that every goal, objective, outcome, experience, capability, process, information, technology and execution component is traceable and strategically linked.
+Visit https://www.alignedxmodel.org/ for detailed framework.
